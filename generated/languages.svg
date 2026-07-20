@@ -84,7 +84,7 @@ li {
 <foreignObject x="21" y="17" width="318" height="176">
 <div xmlns="http://www.w3.org/1999/xhtml">
 <h2>Languages Used (By File Size)</h2>
-<div><span class="progress"><span style="background-color: #178600;width: 97.439%;" class="progress-item"></span><span style="background-color: #3572A5;width: 1.836%;" class="progress-item"></span><span style="background-color: #e34c26;width: 0.615%;" class="progress-item"></span><span style="background-color: #222c37;width: 0.103%;" class="progress-item"></span><span style="background-color: #a52a22;width: 0.003%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.002%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 0.002%;" class="progress-item"></span></span></div>
+<div><span class="progress"><span style="background-color: #178600;width: 97.443%;" class="progress-item"></span><span style="background-color: #3572A5;width: 1.831%;" class="progress-item"></span><span style="background-color: #e34c26;width: 0.615%;" class="progress-item"></span><span style="background-color: #222c37;width: 0.103%;" class="progress-item"></span><span style="background-color: #a52a22;width: 0.003%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.002%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 0.002%;" class="progress-item"></span></span></div>
 <ul>
 <li style="animation-delay: 0ms;">
 <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#178600;"
@@ -100,7 +100,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Python</span>
-<span class="percent">1.84%</span>
+<span class="percent">1.83%</span>
 </li>
 
 
